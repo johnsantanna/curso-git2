@@ -6,6 +6,8 @@ namespace Git {
             
             Console.WriteLine("OLA MUNDO");
 
+            Console.WriteLine("BOM DIA");
+
         }
     }
 }
