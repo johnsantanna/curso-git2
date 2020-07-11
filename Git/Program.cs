@@ -7,6 +7,7 @@ namespace Git {
             Console.WriteLine("OLA MUNDO");
             Console.WriteLine("Como voce está hoje?");
             Console.WriteLine("Tenha um bom dia");
+            Console.WriteLine("Tchau");
 
         }
     }
